@@ -29,3 +29,5 @@ Please list possible sub-problems:
 3. The next obstacle that became apparent is in the absence of a real-time inventory system that would track what was and wasn’t available.
 
 4. Beyond the listed observations of surfaced difficulties, an underlying factor is secretly wasting minutes. This is in the disorganization or chaos formed when the queues get too long and crowded. This results in the further need of being cramped between multiple people, discouraging purchase of meals just to avoid the inconvenience.
+
+![Image Alt](https://raw.githubusercontent.com/Maniquis-clcpshs/CS3-repository/refs/heads/main/Step%203.png)
