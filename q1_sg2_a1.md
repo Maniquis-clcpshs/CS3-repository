@@ -36,4 +36,5 @@ For each sub-problem, apply CT skills:
 ![Image Alt](https://raw.githubusercontent.com/Maniquis-clcpshs/CS3-repository/refs/heads/main/Step%203.png)
 
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
+ 
 ![Image Alt](https://github.com/Maniquis-clcpshs/CS3-repository/blob/873fe89b70b69c94064c795526abf2e8413c3894/step%204.png)
