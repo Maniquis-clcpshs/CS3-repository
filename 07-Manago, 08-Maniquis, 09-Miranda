@@ -1,0 +1,39 @@
+Annex C
+Code Quality Assessment Worksheet
+
+Section: 9 - Arayat
+C# / Name: #07 Mañago, #08 Maniquis, #09 Miranda 
+Date: 08/16 /26
+
+Instructions:
+The problem: Finding the highest (Maximum) number from a given list of numbers.
+
+1. Efficiency
+Which algorithm is faster when the list of numbers is very large? Why?
+
+PseudoCode 1 is significantly more efficient because it is able to find the maximum value in just a single pass with the use of only one single loop. This makes it capable of finishing in fewer steps because the algorithm does not repeat any unnecessary work. This is contrary to PseudoCode 2 which utilizes a total of two loops to make a nested loop—contributing to a longer time for the algorithm to finish due to the immense amount of steps it has to go through.
+
+2. Readability
+Which algorithm is easier to understand at first glance? What makes it clearer?
+
+Like the answer to the previous question, PseudoCode 1 is a lot easier to read because it has fewer lines of code which accomplishes the same goal using simpler logic and clearer names. On the other hand, PseudoCode 2 overcomplicates the logic using nested loops and longer lines—even using confusing names. Although it appears more complex and advanced, it takes the longer route to accomplishing the same goal as PseudoCode 1.
+
+3. Maintainability
+If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?
+
+Pseudocode 1 is much more straightforward because it uses a single loop and finds the max using direct logic. Adding more steps to pseudocode 1 would be less likely to break because it uses a simple single loop, finding the maximum through the list it was given. For example, adding a feature such as the minimum would only require adding a new variable and a if statement. Compared to PseudoCode 2, modifying through the nested loop to check the minimum would require more variables, logic flags, and reconstructing the nested loop which can increase the likelihood of errors because of its complicated structure than Pseudocode 1’s more direct structure.
+
+4. Testability
+Which algorithm is easier to test with different inputs? Why?
+
+Pseudocode 1 can easily be tested with different inputs, such as small lists, it can even be tested with 2 numbers, because it has a starting max and compares it with every number on the list, it requires only one loop and makes it easy to follow. In contrast, pseudocode 2 takes longer and is more tedious than pseudocode 1 because it compares each number to every other number, making pseudocode 1 much easier to test. Pseudocode 1 has fewer conditions to check because it only has 1 important condition. While Pseudocode 2 uses a nested loop and has a condition that is constantly run for different numbers. Pseudocode 1 is very predictable, as you can always look at the value of the maximum and compare it with the other numbers to see how the value of the maximum changes. Pseudocode 2, at first glance, is not immediately clear because it has to keep track of multiple variables such as i and j while also going through a nested loop.
+
+5. Security
+Imagine the input list comes from a user. What should the algorithm check to avoid errors or misuse?
+
+The algorithms should check to make sure that the input of the user is a valid list of numbers made of floats and/or integers, and not other data types like other lists or strings. This would effectively avoid the possibility of the user making a misinput that might cause the algorithm to have an error without overcomplicating the existing code.
+
+6. Final Answer
+Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer
+
+Pseudocode 1 appears to be the better algorithm because of it having efficiency, simplicity, clarity and ease of testing. This is because of the way it was made, being shorter and having better variable names and also having fewer repetition structures. This gives it a clear advantage over pseudocode 2 which has the opposite, being longer, worse variable names and an extra repetition structure that was proven unnecessary by pseudocode 1.
