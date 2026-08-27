@@ -1,0 +1,15 @@
+#The rpg hero
+class hero:
+    def __init__(self, name, hp=100):
+    self.name = name
+    self.hp = hp
+    def damage(self, damage):
+    self.damage -= amount
+    
+arthur = Hero=("Arthur", hp == 100)
+morgana = Hero=("Arthur", hp == 100)
+
+arthur.damage(10)
+
+print(f"{arthur.name},{morgana.name}")
+print(f"{arthur.hp},{morgana.hp}")
