@@ -13,4 +13,4 @@ FA5:https://github.com/Maniquis-clcpshs/CS3-repository/blob/main/q1_sg5_a1_Araya
 FA6:https://github.com/Maniquis-clcpshs/CS3-repository/blob/main/q1_sg6_Arayat_Maniquis.py
 
 FA7:
-## Non-Graded:
+## Sample codes
