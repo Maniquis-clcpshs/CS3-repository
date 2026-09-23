@@ -14,3 +14,4 @@ FA6:https://github.com/Maniquis-clcpshs/CS3-repository/blob/main/q1_sg6_Arayat_M
 
 FA7:
 ## Sample codes
+https://github.com/Maniquis-clcpshs/CS3-repository/blob/main/q1_mycar_arayat_Maniquis%2Cpy
