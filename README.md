@@ -12,7 +12,7 @@ FA5:https://github.com/Maniquis-clcpshs/CS3-repository/blob/main/q1_sg5_a1_Araya
 
 FA6:https://github.com/Maniquis-clcpshs/CS3-repository/blob/main/q1_sg6_Arayat_Maniquis.py
 
-FA7:
+FA7:https://github.com/Maniquis-clcpshs/CS3-repository/blob/main/main%20(1).py
 ## Sample codes
 https://github.com/Maniquis-clcpshs/CS3-repository/blob/main/q1_mycar_arayat_Maniquis%2Cpy
 
